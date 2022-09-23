@@ -6,8 +6,6 @@
 
 projeto construído no evento Next Level Week da Rocketseat
 
-[🔗 Clique aqui para acessar](xxxxxxxxxx)
-
 ## 🛠 Tecnologias 
 
 - REACT
