@@ -10,8 +10,10 @@ projeto construído no evento Next Level Week da Rocketseat
 
 ## 🛠 Tecnologias 
 
-- HTML
-- CSS
+- REACT
+- NODEJS
+- TYPESCRIPT
+- REACTJS
 - Git e Github
 
 ## ✉ Contato
